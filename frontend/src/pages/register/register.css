@@ -1,0 +1,14 @@
+form {
+    width: 30%;
+    margin: 40px auto;
+}
+form .MuiBox-root button{
+    border: 1px solid #1565c0 ;
+}
+
+form .MuiBox-root  button:hover {
+    border: 1px solid rgb(0,208,255) ;
+    background-color: white;
+    color: rgb(0,208,255);
+    cursor: pointer;
+}
